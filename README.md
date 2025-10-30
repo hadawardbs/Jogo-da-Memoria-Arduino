@@ -24,5 +24,5 @@ Veja e teste o circuito online no Tinkercad clicando no link abaixo:
 
 ---
 
-Projeto criado por **Eduardo Brandão**  
+⭐ Projeto criado por **Eduardo Brandão**  
 Feito com ❤️ para praticar lógica, eletrônica e programação em Arduino.
